@@ -12,10 +12,10 @@ var f;
 var g;
 var h;
 var i
-for (a = 0; a < 2; a++) {
-    for (b = 0; b < 2; b++) {
-        for (c = 0; c < 10; c++) {
-            for (d = 0; d < 6; c++) {
+for (a = 0; a < 1; a++) {
+    for (b = 0; b < 3; b++) {
+        for (c = 0; c < 5; c++) {
+            for (d = 0; d < 3; c++) {
                 for (e = 0; e < 15; e++) {
                     for (f = 0; f < 5; f++) {
                         for (g = 0; g < 10; g++) {
